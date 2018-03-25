@@ -1,0 +1,11 @@
+c:\users\samv\documents\visual studio 2015\Projects\DBFTOSQLSERVER\DBFTOSQLSERVER\bin\Debug\DBFTOSQLSERVER.exe.config
+c:\users\samv\documents\visual studio 2015\Projects\DBFTOSQLSERVER\DBFTOSQLSERVER\bin\Debug\DBFTOSQLSERVER.exe
+c:\users\samv\documents\visual studio 2015\Projects\DBFTOSQLSERVER\DBFTOSQLSERVER\bin\Debug\DBFTOSQLSERVER.pdb
+c:\users\samv\documents\visual studio 2015\Projects\DBFTOSQLSERVER\DBFTOSQLSERVER\obj\Debug\DBFTOSQLSERVER.csprojResolveAssemblyReference.cache
+c:\users\samv\documents\visual studio 2015\Projects\DBFTOSQLSERVER\DBFTOSQLSERVER\obj\Debug\DBFTOSQLSERVER.Properties.Resources.resources
+c:\users\samv\documents\visual studio 2015\Projects\DBFTOSQLSERVER\DBFTOSQLSERVER\obj\Debug\DBFTOSQLSERVER.ventanaPrincipal.resources
+c:\users\samv\documents\visual studio 2015\Projects\DBFTOSQLSERVER\DBFTOSQLSERVER\obj\Debug\DBFTOSQLSERVER.csproj.GenerateResource.Cache
+c:\users\samv\documents\visual studio 2015\Projects\DBFTOSQLSERVER\DBFTOSQLSERVER\obj\Debug\DBFTOSQLSERVER.exe
+c:\users\samv\documents\visual studio 2015\Projects\DBFTOSQLSERVER\DBFTOSQLSERVER\obj\Debug\DBFTOSQLSERVER.pdb
+c:\users\samv\documents\visual studio 2015\Projects\DBFTOSQLSERVER\DBFTOSQLSERVER\bin\Debug\DbfDataReader.dll
+c:\users\samv\documents\visual studio 2015\Projects\DBFTOSQLSERVER\DBFTOSQLSERVER\bin\Debug\System.Data.Common.dll
