@@ -106,13 +106,16 @@ namespace DBFTOSQLSERVER
             DialogResult resultado = sfdGuardar.ShowDialog();
             if (resultado == DialogResult.OK) {
                 this.Cursor = Cursors.WaitCursor;
-               string ruta =  sfdGuardar.FileName;
+                string ruta =  sfdGuardar.FileName;
                 StreamWriter escribir = new StreamWriter(ruta);
-                escribir.WriteLine(cadena);
+                foreach (char item in cadena) {
+                    escribir.Write(item);
+                }
                 this.Cursor = Cursors.Default;
                 MessageBox.Show("Conversión terminada", "Proceso finalizado", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 txtRuta.Text = "";
                 txtTabla.Text = "";
+                escribir.Close();
             }
         }
 
