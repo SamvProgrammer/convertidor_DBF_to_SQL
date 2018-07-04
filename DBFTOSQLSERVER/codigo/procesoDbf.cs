@@ -29,7 +29,7 @@ namespace DBFTOSQLSERVER.codigo
                     var stringValue = dbfValue.ToString();
                     var obj = dbfValue.GetValue();
                     obj = (string.IsNullOrWhiteSpace(Convert.ToString(obj)) && tipos[contador].Equals("Number") ? "null" : obj);
-                    aux += string.Format((tipos[contador].Equals("Number"))?"{0}":"'{0}'",obj);
+                    aux += string.Format((tipos[contador].Equals("Number"))?"{0}":"'{0}'",obj).Replace(" 12:00:00 a. m.","");
                     aux += ",";
                     contador++;
                 }

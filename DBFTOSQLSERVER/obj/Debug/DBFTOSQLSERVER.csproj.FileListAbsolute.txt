@@ -9,3 +9,14 @@ c:\users\samv\documents\visual studio 2015\Projects\DBFTOSQLSERVER\DBFTOSQLSERVE
 c:\users\samv\documents\visual studio 2015\Projects\DBFTOSQLSERVER\DBFTOSQLSERVER\obj\Debug\DBFTOSQLSERVER.pdb
 c:\users\samv\documents\visual studio 2015\Projects\DBFTOSQLSERVER\DBFTOSQLSERVER\bin\Debug\DbfDataReader.dll
 c:\users\samv\documents\visual studio 2015\Projects\DBFTOSQLSERVER\DBFTOSQLSERVER\bin\Debug\System.Data.Common.dll
+C:\Users\samv\Desktop\repositorios\convertidor_DBF_to_SQL\DBFTOSQLSERVER\bin\Debug\DBFTOSQLSERVER.exe.config
+C:\Users\samv\Desktop\repositorios\convertidor_DBF_to_SQL\DBFTOSQLSERVER\bin\Debug\DBFTOSQLSERVER.exe
+C:\Users\samv\Desktop\repositorios\convertidor_DBF_to_SQL\DBFTOSQLSERVER\bin\Debug\DBFTOSQLSERVER.pdb
+C:\Users\samv\Desktop\repositorios\convertidor_DBF_to_SQL\DBFTOSQLSERVER\bin\Debug\DbfDataReader.dll
+C:\Users\samv\Desktop\repositorios\convertidor_DBF_to_SQL\DBFTOSQLSERVER\bin\Debug\System.Data.Common.dll
+C:\Users\samv\Desktop\repositorios\convertidor_DBF_to_SQL\DBFTOSQLSERVER\obj\Debug\DBFTOSQLSERVER.csprojResolveAssemblyReference.cache
+C:\Users\samv\Desktop\repositorios\convertidor_DBF_to_SQL\DBFTOSQLSERVER\obj\Debug\DBFTOSQLSERVER.Properties.Resources.resources
+C:\Users\samv\Desktop\repositorios\convertidor_DBF_to_SQL\DBFTOSQLSERVER\obj\Debug\DBFTOSQLSERVER.ventanaPrincipal.resources
+C:\Users\samv\Desktop\repositorios\convertidor_DBF_to_SQL\DBFTOSQLSERVER\obj\Debug\DBFTOSQLSERVER.csproj.GenerateResource.Cache
+C:\Users\samv\Desktop\repositorios\convertidor_DBF_to_SQL\DBFTOSQLSERVER\obj\Debug\DBFTOSQLSERVER.exe
+C:\Users\samv\Desktop\repositorios\convertidor_DBF_to_SQL\DBFTOSQLSERVER\obj\Debug\DBFTOSQLSERVER.pdb
